@@ -13,7 +13,7 @@
     "isolatedModules": true,
     "emitDeclarationOnly": true,
     "declaration": true,
-    "declarationDir": "./types",
+    "declarationDir": "./dist",
     /* Linting */
     "strict": true,
     "noUnusedLocals": true,
